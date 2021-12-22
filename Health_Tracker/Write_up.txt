@@ -1,0 +1,4 @@
+1)At starting of application, it will ask for basic information
+Name,sex,age.height,weight,Enter the workout details
+2)In my application, i taken the two days workout information 
+and calculated the BMI,all required information 
